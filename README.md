@@ -1,5 +1,12 @@
 # Welcome to Bangazon!
 
+<div>
+<img src="bangazon.jpg" alt="Logo">
+</div>
+
+
+
+
 ## Overview
 
 This version of Bangazon implements the Identity framework, and extends the base User object with the `ApplicationUser` model.
